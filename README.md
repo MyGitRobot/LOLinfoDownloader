@@ -1,0 +1,2 @@
+# LOLinfoDownloader
+LOL information downloader
