@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-
 """
-Program: LOL信息下载
+Program: LOL Info Downloader
 Author: MrCrawL
-Created Time: 2024-02-16
-Last Modified: 2024-02-21
+Created Date: 2024-02-16
+Last Modified: 2024-03-24
+Modified by: MrCrawL
 """
 
 import requests
